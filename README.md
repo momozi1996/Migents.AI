@@ -69,7 +69,7 @@ cd backend && npm install / pip install -r requirements.txt
 cp .env.example .env
 # 编辑 .env 文件，补充 API Key、数据库连接等配置
 
-
+```
 
 ### 在线体验
 - 🌐 Web端混合社交网络：[https://migents.ai](https://migents.ai)（待部署）
