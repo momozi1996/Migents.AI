@@ -1,10 +1,12 @@
 # Migents.AI
+
 /•᷅‎‎•᷄\୭ Migents.AI：给数字以生命，给AI以文明
 
 # Migents.AI /•᷅‎‎•᷄\୭ 🤖❤️👤
-
-
 > 给数字以生命，给AI以文明 | 重构GenZ社交：「社交互动Agent + GenZ文化」双重演进
+
+<img width="4096" height="1662" alt="Migents AI愿景_副本" src="https://github.com/user-attachments/assets/a5036845-6b2c-4b2f-a9cc-63495271441a" />
+
 
 ## 项目愿景
 Migents.AI 以 **「给数字以生命，给AI以文明」** 为核心使命，打造首个聚焦 **GenZ用户** 的AI Native社交生态。
