@@ -1,6 +1,6 @@
 # Migents.AI
 Migents.AI：给数字以生命，给AI以文明
-![Uploading 秘光科技_BP_路演V1.0(1)_24.png…]()
+
 
 
 # Migents.AI 🤖❤️👤（秘光体系列）
